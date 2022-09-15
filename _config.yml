@@ -21,9 +21,9 @@ author: Ashley Perez
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - NASA Student Launch: "Project1"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects: "Projects"
+    #- NASA Student Launch: "Project1"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
   Resume: "resume"
 # Author's home: "https://deanattali.com"
 
