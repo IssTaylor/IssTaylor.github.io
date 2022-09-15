@@ -52,7 +52,7 @@ social-network-links:
   email: "ashleytaylorperez@gmail.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: IssTaylor
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -103,7 +103,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
@@ -125,7 +125,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#EAFBEF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
