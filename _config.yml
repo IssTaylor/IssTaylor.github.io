@@ -25,7 +25,7 @@ navbar-links:
     - NASA Student Launch: "Project1"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Resume: "resume"
-  Author's home: "https://deanattali.com"
+# Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
