@@ -21,9 +21,10 @@ author: Ashley Perez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Projects:
+    - NASA Student Launch: "Project1"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: xxx
   Author's home: "https://deanattali.com"
 
 ################
