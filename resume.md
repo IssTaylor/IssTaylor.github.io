@@ -1,3 +1,2 @@
-[Resume Download Link]("Ashley Perez - Resume.pdf" title = "Resume Download Link")
-chair
+["Ashley Perez - Resume.pdf"]("Ashley Perez - Resume.pdf")
 ![Resume Download Link](Resume SS.PNG)
