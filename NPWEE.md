@@ -9,5 +9,5 @@ During my time in NASA Student Launch, I strengthened my capabilities in analysi
 You can find a PDF version of our Proposal by clicking [[here]](NPWEEProposal.pdf)
 
 Here is my certification of completion:
-![Certification](NPWEECert.jpg)  
+![Certification](NPWEECert.png)  
 
