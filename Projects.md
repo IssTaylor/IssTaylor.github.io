@@ -4,10 +4,10 @@ title: Projects
 subtitle: Listed below are some projects I have been involved in.
 ---
 
-[[x]](NSL.md) NASA Student Launch  
+[[NASA Student Launch]](NSL.md)  
 
-[[x]](MCA.md) NASA Mission Concept Academy  
+[[NASA Mission Concept Academy]](MCA.md)  
 
-[[x]](NPWEE.md) NASA Proposal Writing and Evaluation Experience  
+[[NASA Proposal Writing and Evaluation Experience]](NPWEE.md)  
 
-[[x]](4811L.md) Space Vehicle Design Laboratory  
+[[Space Vehicle Design Laboratory]](4811L.md)  
