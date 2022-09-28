@@ -11,7 +11,6 @@ You can find a PDF version of our PDR by clicking [[here]](NSLPDR.md)
 
 
 Here's me with our subscale rocket (1/3 of full size):
-
 ![sub scale launch](subscale.jpg)  
 
 Here's me with our full scale rocket (10 feet tall):
