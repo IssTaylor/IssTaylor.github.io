@@ -12,9 +12,9 @@ You can find a PDF version of our PDR by clicking [[here]](NSLPDR.md)
 including a keen attention to detail and accuracy. 
 I have a well-rounded skill set in technical writing and experience in collaborative group projects
 shaped me into an effective communicator with plenty of experience in technical writing. 
-| ![sub scale launch](subscale.jpg) | 
+| ![sub scale launch](subscale.jpg) | {: .mx-auto.d-block :}
 |:--:| 
 | *Subscale Launch* |  
-| ![full scale launch](fullscale.jpg) | 
+| ![full scale launch](fullscale.jpg) | {: .mx-auto.d-block :}
 |:--:| 
 | *Full Scale Launch* |
