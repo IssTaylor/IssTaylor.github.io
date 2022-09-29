@@ -10,4 +10,4 @@ subtitle: Listed below are some projects I have been involved in.
 
 📝 [[NASA Proposal Writing and Evaluation Experience]](NPWEE.md)  
 
-🛰️ [[Space Vehicle Design Laboratory]](Senior Design.md)  
+🛰️ [[Space Vehicle Design Laboratory]](SeniorDesign.md)  
