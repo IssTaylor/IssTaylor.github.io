@@ -22,8 +22,10 @@ author: Ashley Perez
 navbar-links:
   About Me: "aboutme"
   Projects: "Projects"
-    #- NASA Student Launch: "Project1"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+    - NASA Student Launch: "NSL"
+    - NASA Mission Concept Academy: "MCA"
+    - NASA Proposal Writing and Evaluation Experience: "NPWEE"
+    - Space Vehicle Design Laboratory: "Senior Design"
   Resume: "resume"
 # Author's home: "https://deanattali.com"
 
@@ -107,7 +109,7 @@ feed_show_excerpt: true
 feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
