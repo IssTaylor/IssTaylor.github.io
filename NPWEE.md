@@ -4,10 +4,7 @@ title: NASA's Proposal Writing and Evaluation Experience
 subtitle: Science Team
 ---
 
-During my time in NASA's Proposal Writing and Evaluation Experience, I was introduced to proposals for the first time. 
-
-
-strengthened my capabilities in analysis by conducting trade studies and troubleshooting using a MATLAB live script. This script helped my team and I find our rocket descent time, kinetic energy, velocity, parachute size, and drift at various winds. I also gained more experience with writing technical reports; we wrote and submitted a proposal, a Preliminary Design Review (PDR), a Critical Design Review (CDR), a Flight Readiness Review (FRR), and a Post Launch Assessment Review (PLAR). This project shaped me into a more effective communicator in collaborative group projects.
+During my time in NASA's Proposal Writing and Evaluation Experience, I was introduced to proposals, quad charts, and new technology reports for the first time. I collaborated with an interdisciplinary team to write a technical proposal on mycelium for structural use. More specifically, we proposed that it would be possible to use it for manned planetary missions as construction material for housing. Once submitted, I learned how analyze and grade proposals following a review process led by an industry professional. Overall, this project showed me what I should expect when writing and grading a proposal in the aerospace industry and was a stepping stone for my experience in technical writing.
 
 You can find a PDF version of our Proposal by clicking [[here]](NPWEEProposal.pdf)
 
