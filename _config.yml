@@ -22,10 +22,10 @@ author: Ashley Perez
 navbar-links:
   About Me: "aboutme"
   Projects: "Projects"
-    - NASA Student Launch: "NSL"
-    - NASA Mission Concept Academy: "MCA"
-    - NASA Proposal Writing and Evaluation Experience: "NPWEE"
-    - Space Vehicle Design Laboratory: "SeniorDesign"
+    #- NASA Student Launch: "NSL"
+    #- NASA Mission Concept Academy: "MCA"
+    #- NASA Proposal Writing and Evaluation Experience: "NPWEE"
+    #- Space Vehicle Design Laboratory: "SeniorDesign"
   Resume: "resume"
 # Author's home: "https://deanattali.com"
 
