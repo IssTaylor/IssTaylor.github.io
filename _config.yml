@@ -22,7 +22,7 @@ author: Ashley Perez
 navbar-links:
   About Me: "aboutme"
   Projects: "Projects"
-    #- NASA Student Launch: "NSL"
+    - NASA Student Launch: "NSL.md"
     #- NASA Mission Concept Academy: "MCA"
     #- NASA Proposal Writing and Evaluation Experience: "NPWEE"
     #- Space Vehicle Design Laboratory: "SeniorDesign"
