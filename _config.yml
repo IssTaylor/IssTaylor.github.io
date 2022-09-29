@@ -20,7 +20,7 @@ author: Ashley Perez
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Projects: "Projects"
     #- NASA Student Launch: "NSL"
     #- NASA Mission Concept Academy: "MCA"
