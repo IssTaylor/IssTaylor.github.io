@@ -9,4 +9,4 @@ During my time in NASA's Mission Concept Academy, I refined my technical writing
 You can find a PDF version of our PDR by clicking [[here]](MCAPDR.pdf)
 
 Here is my certification of completion:
-![Certification](MCACert.pdf)  
+![Certification](MCACert.jpg)  
