@@ -22,7 +22,7 @@ author: Ashley Perez
 navbar-links:
   #About Me: "aboutme"
   Projects: "Projects"
-    #- NASA Student Launch: "NSL"
+    - NASA Student Launch: "https://isstaylor.github.io/NSL/"
     #- NASA Mission Concept Academy: "MCA"
     #- NASA Proposal Writing and Evaluation Experience: "NPWEE"
     #- Space Vehicle Design Laboratory: "SeniorDesign"
@@ -128,14 +128,14 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#BBDEFF"
+navbar-col: "#DEEEFF"
 navbar-text-col: "#000000"
 navbar-border-col: "#71BAFF"
-page-col: "#EDF6FF"
+page-col: "#F7FBFF"
 text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#7a2282"
-footer-col: "#BBDEFF"
+footer-col: "#DEEEFF"
 footer-text-col: "#000000"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
