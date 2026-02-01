@@ -21,7 +21,8 @@ author: Ashley Perez
 
 navbar-links:
   #About Me: "aboutme"
-  Projects: "Projects"
+  Professional Projects: "Professional Projects"
+  Undergraduate Projects: "Projects"
     #- NASA Student Launch: "https://isstaylor.github.io/NSL/"
     #- NASA Mission Concept Academy: "MCA"
     #- NASA Proposal Writing and Evaluation Experience: "NPWEE"
@@ -52,10 +53,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ashleytaylorperez@gmail.com"
+  email: "ashtperez@outlook.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: IssTaylor
+#  github: IssTaylor
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
