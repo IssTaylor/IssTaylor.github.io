@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Projects
-subtitle: Listed below are the projects I have worked on at Lockheed Martin. My work is systems engineering focused, including but not limited to:
+subtitle: Listed below are the projects I have worked on at Lockheed Martin. My work is systems engineering focused, including but not limited to
 - ICD reviews
 - ICD requirement verification and deliverables
 - Mission kickoff charts
