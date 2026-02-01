@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Projects
-subtitle: Listed below are the projects I have worked on at Lockheed Martin.
+subtitle: Listed below are the projects I have worked on at Lockheed Martin. My work was systems engineering heavy and included ICD reviews, requirement verification and deliverables, 
 ---
 
 🚀 [Tantrum](https://news.lockheedmartin.com/ESA_payload_demonstrator)
