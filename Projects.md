@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-subtitle: Listed below are some projects I have been involved in.
+title: Undergraduate Projects
+subtitle: Listed below are the projects I was involved in during my time in undergrad.
 ---
 
 🚀 [[NASA Student Launch]](NSL.md)  
