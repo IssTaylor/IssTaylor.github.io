@@ -1,13 +1,7 @@
 ---
 layout: page
 title: Professional Projects
-subtitle: Listed below are the projects I have worked on at Lockheed Martin. My work is systems engineering focused, including but not limited to
-- ICD reviews
-- ICD requirement verification and deliverables
-- Mission kickoff charts
-- Day of launch handbooks
-- Orbit visualization and optimization
-- 3D videos of launch site processing operations
+subtitle: Listed below are the projects I have worked on at Lockheed Martin. My work is systems engineering focused, including but not limited to ICD reviews, ICD requirement verification and deliverables, Mission kickoff charts, Day of launch handbooks, Orbit visualization and optimization, 3D videos of launch site processing operations
 
 ---
 
