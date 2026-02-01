@@ -10,6 +10,6 @@ subtitle: Listed below are the projects I have worked on at Lockheed Martin.
 
 📝 [NGG](https://news.lockheedmartin.com/2025-08-06-first-next-gen-geo-based-missile-warning-satellite-successfully-completes-environmental-testing)
 
-🛰️ [Flight 7](SeniorDesign.md)
+🛰️ [Flight 7](https://fireflyspace.com/missions/alpha-flta007/)
 
 🛰️ [TacSat](https://news.lockheedmartin.com/2024-12-09-Lockheed-Martins-Newest-Technology-Demo-for-Space-Connectivity-Is-Ready-for-Launch)
